@@ -12,4 +12,4 @@ Welcome to my Data portfolio! I document the summary of my projects in the field
 # Power BI
 | Project Link | Completion Date | Dashboard Link | Area of Analysis |
 |---|---|---|---|
-[Customer Rentention Analysis Model]()|Jan 2026|Dashboard()|It highlights CSAT scores, sentiment, query sources across channels (Call Center, Chatbot, Email, Web), response time vs SLA, and performance across different call centers and states. The insights clearly show how delays and channel performance impact customer satisfaction and potential churn.
+[Customer Rentention Analysis Model](Flipkartretentionanalysis.xlsx)|Jan 2026|Dashboard()|It highlights CSAT scores, sentiment, query sources across channels (Call Center, Chatbot, Email, Web), response time vs SLA, and performance across different call centers and states. The insights clearly show how delays and channel performance impact customer satisfaction and potential churn.
